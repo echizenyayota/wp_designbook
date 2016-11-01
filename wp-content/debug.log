@@ -1,0 +1,1 @@
+[01-Nov-2016 05:27:55 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 479
