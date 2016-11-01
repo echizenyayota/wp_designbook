@@ -1,2 +1,15 @@
 [01-Nov-2016 05:27:55 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 479
 [01-Nov-2016 05:34:43 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 306
+[01-Nov-2016 05:38:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:38:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:39:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:39:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:40:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:41:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:42:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:42:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:43:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:43:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:43:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:44:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
+[01-Nov-2016 05:44:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
