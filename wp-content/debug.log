@@ -14,3 +14,9 @@
 [01-Nov-2016 05:44:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
 [01-Nov-2016 05:44:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 2
 [02-Nov-2016 08:07:08 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 9
+[02-Nov-2016 13:26:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 17
+[02-Nov-2016 13:27:17 UTC] PHP Notice:  Undefined variable: myposts in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 11
+[02-Nov-2016 13:27:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 11
+[02-Nov-2016 13:33:35 UTC] PHP Notice:  Undefined variable: myposts in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 13
+[02-Nov-2016 13:33:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 13
+[02-Nov-2016 13:53:59 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 306
