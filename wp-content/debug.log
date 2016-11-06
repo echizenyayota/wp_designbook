@@ -28,3 +28,6 @@
 [06-Nov-2016 05:56:09 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
 [06-Nov-2016 05:56:14 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
 [06-Nov-2016 05:56:14 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[06-Nov-2016 09:10:22 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[06-Nov-2016 09:10:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[06-Nov-2016 09:10:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
