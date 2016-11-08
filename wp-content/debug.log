@@ -31,3 +31,12 @@
 [06-Nov-2016 09:10:22 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
 [06-Nov-2016 09:10:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
 [06-Nov-2016 09:10:24 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[08-Nov-2016 07:25:16 UTC] PHP Notice:  Undefined variable: return in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 31
+[08-Nov-2016 07:25:16 UTC] PHP Notice:  Undefined variable: data in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 31
+[08-Nov-2016 07:25:16 UTC] PHP Notice:  Undefined variable: url in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 31
+[08-Nov-2016 07:25:16 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/embed.php on line 709
+[08-Nov-2016 07:27:14 UTC] PHP Notice:  Undefined variable: return in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 31
+[08-Nov-2016 07:27:14 UTC] PHP Notice:  Undefined variable: data in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 31
+[08-Nov-2016 07:27:14 UTC] PHP Notice:  Undefined variable: url in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 31
+[08-Nov-2016 07:27:14 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/embed.php on line 709
+[08-Nov-2016 07:27:14 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 24
