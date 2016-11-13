@@ -51,3 +51,4 @@
 [10-Nov-2016 08:04:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 13
 [10-Nov-2016 08:04:57 UTC] PHP Fatal error:  Call to undefined function get_the_parents() in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 12
 [10-Nov-2016 08:05:23 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 12
+[11-Nov-2016 01:44:04 UTC] PHP Parse error:  syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 27
