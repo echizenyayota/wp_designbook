@@ -60,3 +60,13 @@
 [11-Nov-2016 02:34:46 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
 [11-Nov-2016 02:38:18 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
 [11-Nov-2016 02:39:00 UTC] PHP Notice:  Use of undefined constant 　 - assumed '　' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:52:52 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:52 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:52 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
+[11-Nov-2016 02:52:53 UTC] PHP Parse error:  syntax error, unexpected '"; ?>' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 33
