@@ -52,3 +52,11 @@
 [10-Nov-2016 08:04:57 UTC] PHP Fatal error:  Call to undefined function get_the_parents() in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 12
 [10-Nov-2016 08:05:23 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 12
 [11-Nov-2016 01:44:04 UTC] PHP Parse error:  syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 27
+[11-Nov-2016 02:03:32 UTC] PHP Parse error:  syntax error, unexpected 'og' (T_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 24
+[11-Nov-2016 02:04:08 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:05:38 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:08:04 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:32:31 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:34:46 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:38:18 UTC] PHP Fatal error:  Call to undefined function 　wp_get_attachment_image_src() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
+[11-Nov-2016 02:39:00 UTC] PHP Notice:  Use of undefined constant 　 - assumed '　' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 23
