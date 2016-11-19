@@ -176,3 +176,5 @@
 [19-Nov-2016 05:11:32 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
 [19-Nov-2016 05:16:51 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
 [19-Nov-2016 05:16:53 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
+[19-Nov-2016 05:45:47 UTC] PHP Fatal error:  Call to undefined function mythummb() in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 9
+[19-Nov-2016 05:48:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 15
