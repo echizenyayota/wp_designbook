@@ -178,3 +178,23 @@
 [19-Nov-2016 05:16:53 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
 [19-Nov-2016 05:45:47 UTC] PHP Fatal error:  Call to undefined function mythummb() in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 9
 [19-Nov-2016 05:48:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 15
+[19-Nov-2016 06:22:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 86
+[19-Nov-2016 06:23:37 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[19-Nov-2016 06:23:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 06:23:40 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 06:24:19 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:24:19 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:24:19 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:24:19 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:24 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:24 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:24 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:24 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:35 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:35 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:35 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:25:35 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:26:07 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:26:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:26:07 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 06:26:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
