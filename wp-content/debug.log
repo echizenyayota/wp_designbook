@@ -154,3 +154,19 @@
 [19-Nov-2016 04:22:13 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
 [19-Nov-2016 04:22:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
 [19-Nov-2016 04:22:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:48:38 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[19-Nov-2016 04:48:42 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:48:42 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:49:17 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[19-Nov-2016 04:49:19 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:49:19 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:51:13 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[19-Nov-2016 04:51:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:51:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:51:57 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[19-Nov-2016 04:51:59 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:51:59 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:58:06 UTC] PHP Parse error:  syntax error, unexpected '/' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 04:58:19 UTC] PHP Parse error:  syntax error, unexpected '/' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 05:01:21 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 38
+[19-Nov-2016 05:03:35 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 38
