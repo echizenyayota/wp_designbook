@@ -170,3 +170,9 @@
 [19-Nov-2016 04:58:19 UTC] PHP Parse error:  syntax error, unexpected '/' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
 [19-Nov-2016 05:01:21 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 38
 [19-Nov-2016 05:03:35 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 38
+[19-Nov-2016 05:11:08 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
+[19-Nov-2016 05:11:11 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
+[19-Nov-2016 05:11:13 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
+[19-Nov-2016 05:11:32 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
+[19-Nov-2016 05:16:51 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
+[19-Nov-2016 05:16:53 UTC] PHP Fatal error:  Call to undefined function mythumb() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 31
