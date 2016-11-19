@@ -96,3 +96,10 @@
 [17-Nov-2016 09:15:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 68
 [19-Nov-2016 02:02:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 74
 [19-Nov-2016 02:02:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 74
+[19-Nov-2016 02:46:35 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 02:46:36 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 02:46:36 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 02:46:37 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 02:47:04 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 02:47:05 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 02:48:13 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
