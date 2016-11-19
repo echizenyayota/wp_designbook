@@ -198,3 +198,4 @@
 [19-Nov-2016 06:26:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
 [19-Nov-2016 06:26:07 UTC] PHP Notice:  Undefined variable: post_content in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
 [19-Nov-2016 06:26:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 83
+[19-Nov-2016 07:57:59 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /var/www/wordpress/wp-content/themes/mytheme/index.php on line 26
