@@ -151,3 +151,6 @@
 [19-Nov-2016 04:18:12 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
 [19-Nov-2016 04:18:18 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
 [19-Nov-2016 04:18:34 UTC] PHP Notice:  Use of undefined constant U - assumed 'U' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 72
+[19-Nov-2016 04:22:13 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[19-Nov-2016 04:22:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[19-Nov-2016 04:22:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
