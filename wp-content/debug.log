@@ -233,3 +233,4 @@
 [20-Nov-2016 07:50:10 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /var/www/wordpress/wp-content/themes/mytheme/tag.php on line 22
 [20-Nov-2016 07:51:28 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /var/www/wordpress/wp-content/themes/mytheme/tag.php on line 23
 [20-Nov-2016 07:51:30 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /var/www/wordpress/wp-content/themes/mytheme/tag.php on line 23
+[20-Nov-2016 08:12:00 UTC] PHP Fatal error:  Call to undefined function var_sump() in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 38
