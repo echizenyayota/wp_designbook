@@ -289,3 +289,5 @@
 [21-Nov-2016 10:59:30 UTC] PHP Parse error:  syntax error, unexpected 'register_nav_menu' (T_STRING) in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 93
 [21-Nov-2016 11:00:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 98
 [21-Nov-2016 11:01:07 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 479
+[21-Nov-2016 11:56:52 UTC] PHP Parse error:  syntax error, unexpected '{' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 96
+[21-Nov-2016 11:57:42 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 96
