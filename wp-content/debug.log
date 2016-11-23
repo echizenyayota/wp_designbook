@@ -322,3 +322,4 @@
 [23-Nov-2016 05:42:06 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 74
 [23-Nov-2016 05:46:06 UTC] PHP Notice:  Array to string conversion in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 88
 [23-Nov-2016 05:51:34 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 90
+[23-Nov-2016 06:09:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 83
