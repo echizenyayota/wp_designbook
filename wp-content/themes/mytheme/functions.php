@@ -124,3 +124,6 @@ register_sidebar( array(
   'before_title' => '<h2 class="widgettitle">',
   'after_title' => '</h2>'
 ));
+
+// 検索フォーム
+add_theme_support ('html5', array('search-form'));
