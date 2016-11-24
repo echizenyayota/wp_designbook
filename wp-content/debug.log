@@ -327,3 +327,11 @@
 [23-Nov-2016 06:16:23 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 82
 [23-Nov-2016 06:49:34 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 83
 [23-Nov-2016 09:47:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /var/www/wordpress/wp-content/themes/mytheme/404.php on line 6
+[23-Nov-2016 10:32:46 UTC] PHP Notice:  Use of undefined constant is_tag - assumed 'is_tag' in /var/www/wordpress/wp-content/themes/mytheme/functions.php on line 104
+[23-Nov-2016 10:38:57 UTC] PHP Parse error:  syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING) in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 101
+[23-Nov-2016 10:39:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 94
+[23-Nov-2016 10:39:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 94
+[23-Nov-2016 10:39:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 94
+[23-Nov-2016 10:40:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 94
+[23-Nov-2016 10:40:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 94
+[23-Nov-2016 10:41:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /var/www/wordpress/wp-content/themes/mytheme/header.php on line 94
