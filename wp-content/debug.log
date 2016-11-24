@@ -362,3 +362,8 @@
 [23-Nov-2016 12:35:35 UTC] PHP Notice:  Undefined index: pickupnav in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 11
 [23-Nov-2016 12:36:12 UTC] PHP Notice:  Undefined index: pickupnav in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 11
 [23-Nov-2016 12:36:17 UTC] PHP Notice:  Undefined index: pickupnav in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 11
+[23-Nov-2016 14:38:49 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /var/www/wordpress/wp-includes/query.php on line 2777
+[23-Nov-2016 14:38:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /var/www/wordpress/wp-includes/query.php on line 2777
+[23-Nov-2016 14:38:49 UTC] WordPress データベースエラー: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND wp_posts.post_type = 'post' AND ((wp_posts.post_status = 'publish'))  ORDE' at line 1 for query SELECT   wp_posts.ID FROM wp_posts  WHERE 1=1  AND wp_posts.ID NOT IN () AND wp_posts.post_type = 'post' AND ((wp_posts.post_status = 'publish'))  ORDER BY RAND() LIMIT 0, 4 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/mytheme/single.php'), get_posts, WP_Query->query, WP_Query->get_posts
+[23-Nov-2016 14:43:51 UTC] PHP Notice:  Undefined variable: array in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 94
+[23-Nov-2016 14:43:51 UTC] PHP Fatal error:  Function name must be a string in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 94
