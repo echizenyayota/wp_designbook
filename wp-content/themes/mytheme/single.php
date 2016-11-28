@@ -54,7 +54,14 @@
           <?php the_content(); ?>
         </div>
 
-        aaa
+        <div class="google-ad">
+          <div class="ad1">
+            <img src="banner_1.png" height="250" width=300>
+          </div>
+          <div class="ad2">
+            <img src="banner_2.png" height="250" width=300>
+          </div>
+        </div>
 
         <div class="share">
           <ul>
