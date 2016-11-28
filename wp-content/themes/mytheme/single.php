@@ -54,6 +54,8 @@
           <?php the_content(); ?>
         </div>
 
+        aaa
+
         <div class="share">
           <ul>
             <li>
