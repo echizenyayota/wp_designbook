@@ -901,22 +901,22 @@ blockquote:after {
   clear: both;
 }
 
-.ad1 {
+.ad2 {
   float: left;
   width 50%;
 }
 
-.ad2 {
+.ad3 {
   float: right;
   width: 50%;
 }
 
 @media (max-width: 599px) {
-  .ad1 {
+  .ad2 {
     margin-left: auto;
     margin-right: auto;
   }
-  .ad2 {
+  .ad3 {
     display: none;
   }
 }
