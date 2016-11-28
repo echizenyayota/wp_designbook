@@ -912,9 +912,12 @@ blockquote:after {
 }
 
 @media (max-width: 599px) {
-  .ad2 {
-    margin-left: auto;
-    margin-right: auto;
+  .google-ad {
+    display: block;
+    margin: 0 auto;
+  }
+  .ad {
+    text-align: center;
   }
   .ad3 {
     display: none;
