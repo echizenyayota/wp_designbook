@@ -56,10 +56,10 @@
 
         <div class="google-ad">
           <div class="ad2">
-            <img src="" height="250" width=300>
+            <p><img src="" height="250" width=300></p>
           </div>
           <div class="ad3">
-            <img src="" height="250" width=300>
+            <p><img src="" height="250" width=300></p>
           </div>
         </div>
 

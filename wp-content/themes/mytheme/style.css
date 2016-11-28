@@ -915,7 +915,7 @@ blockquote:after {
 }
 
 @media (max-width: 600px) {
-  .ad2 {
+  .ad2 p {
     text-align: center;
   }
   .ad3 {
