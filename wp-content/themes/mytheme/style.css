@@ -889,6 +889,7 @@ blockquote:after {
   text-align: center;
 }
 
+<<<<<<< HEAD
 /*　------------------------　Google Adsence　------------------------　*/
 
 /* モバイル上部 */
@@ -901,6 +902,12 @@ blockquote:after {
 /* コンテンツ下部 */
 .google-ad {
   padding: 15px 0;
+=======
+/* Google Adsence */
+.google-ad {
+  padding: 15px 0;
+  margin-bottom: 10px 0;
+>>>>>>> origin/Chapter5_5
 }
 
 .google-ad:after {
@@ -909,21 +916,38 @@ blockquote:after {
   clear: both;
 }
 
+<<<<<<< HEAD
 .ad2 {
+=======
+.ad1 {
+>>>>>>> origin/Chapter5_5
   float: left;
   width 50%;
 }
 
+<<<<<<< HEAD
 .ad3 {
+=======
+.ad2 {
+>>>>>>> origin/Chapter5_5
   float: right;
   width: 50%;
 }
 
+<<<<<<< HEAD
 @media (max-width: 768px) {
   .ad2 {
     text-align: center;
   }
   .ad3 {
+=======
+@media (max-width: 599px) {
+  .ad1 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .ad2 {
+>>>>>>> origin/Chapter5_5
     display: none;
   }
 }
