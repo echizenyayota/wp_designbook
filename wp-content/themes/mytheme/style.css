@@ -889,10 +889,18 @@ blockquote:after {
   text-align: center;
 }
 
-/* Google Adsence */
+/*　------------------------　Google Adsence　------------------------　*/
+
+/* モバイル上部 */
+@media(min-width: 600px) {
+  .googlead-mobile {
+    display: none;
+  }
+}
+
+/* コンテンツ下部 */
 .google-ad {
   padding: 15px 0;
-  margin-bottom: 10px 0;
 }
 
 .google-ad:after {
@@ -901,22 +909,21 @@ blockquote:after {
   clear: both;
 }
 
-.ad1 {
+.ad2 {
   float: left;
   width 50%;
 }
 
-.ad2 {
+.ad3 {
   float: right;
   width: 50%;
 }
 
-@media (max-width: 599px) {
-  .ad1 {
-    margin-left: auto;
-    margin-right: auto;
-  }
+@media (max-width: 768px) {
   .ad2 {
+    text-align: center;
+  }
+  .ad3 {
     display: none;
   }
 }

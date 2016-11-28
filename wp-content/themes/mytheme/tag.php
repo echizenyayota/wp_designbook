@@ -1,5 +1,10 @@
 <?php get_header(); ?>
 <div class="sub-header">
+
+  <div class="googlead-mobile">
+    <img src="" height="50" width=320>
+  </div>
+  
 <div class="bread">
   <ol>
     <li>

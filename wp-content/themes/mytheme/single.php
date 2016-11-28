@@ -1,6 +1,8 @@
 <?php get_header(); ?>
-
 <div class="sub-header">
+<div class="googlead-mobile">
+  <img src="" height="50" width=320>
+</div>
 <div class="bread">
   <ol>
     <li>
@@ -55,11 +57,11 @@
         </div>
 
         <div class="google-ad">
-          <div class="ad1">
-            <img src="banner_1.png" height="250" width=300>
-          </div>
           <div class="ad2">
-            <img src="banner_2.png" height="250" width=300>
+            <img src="" height="250" width=300>
+          </div>
+          <div class="ad3">
+            <img src="" height="250" width=300>
           </div>
         </div>
 
