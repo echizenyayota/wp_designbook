@@ -911,7 +911,7 @@ blockquote:after {
   width: 50%;
 }
 
-@media (max-width: 599px) {
+@media (max-width: 600px) {
   .google-ad {
     display: block;
     margin: 0 auto;
