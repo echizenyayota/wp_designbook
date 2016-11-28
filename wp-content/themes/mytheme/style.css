@@ -884,6 +884,9 @@ blockquote:after {
   height: 0;
 }
 
+/*　------------------------　サイドバー　------------------------　*/
+
+
 /* 広告 */
 .myad {
   text-align: center;
@@ -912,11 +915,7 @@ blockquote:after {
 }
 
 @media (max-width: 600px) {
-  .google-ad {
-    display: block;
-    margin: 0 auto;
-  }
-  .ad {
+  .ad2 {
     text-align: center;
   }
   .ad3 {
