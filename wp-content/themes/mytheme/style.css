@@ -915,6 +915,10 @@ blockquote:after {
 }
 
 @media (max-width: 768px) {
+  .ad2 {
+    float:none;
+    width:100%;
+  }
   .ad2 p {
     text-align: center;
   }
