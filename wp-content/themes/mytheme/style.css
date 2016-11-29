@@ -898,11 +898,11 @@ blockquote:after {
   padding: 0;
 }
 
-.google-mobile:after {
+/*.google-mobile:after {
   content:none;
   display: block;
   clear: both;
-}
+}*/
 
 .ad1 {
   text-align: center;

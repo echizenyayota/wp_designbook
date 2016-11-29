@@ -5,6 +5,7 @@
     <div class="ad1">
       <p><img src="" height="50" width=320></p>
     </div>
+  <div>
   <div class="contents">
     <?php if (have_posts()): the_post(); ?>
       <?php get_template_part('gaiyou', 'large'); ?>
