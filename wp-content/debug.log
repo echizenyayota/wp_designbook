@@ -368,3 +368,16 @@
 [23-Nov-2016 14:43:51 UTC] PHP Notice:  Undefined variable: array in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 94
 [23-Nov-2016 14:43:51 UTC] PHP Fatal error:  Function name must be a string in /var/www/wordpress/wp-content/themes/mytheme/single.php on line 94
 [23-Nov-2016 15:38:55 UTC] PHP Fatal error:  Call to undefined function get_seaarch_query() in /var/www/wordpress/wp-content/themes/mytheme/search.php on line 17
+[28-Nov-2016 20:38:14 UTC] PHP Notice:  Undefined index: post_id in /var/www/wordpress/wp-content/plugins/pixabay-images/pixabay-images.php on line 239
+[28-Nov-2016 20:38:18 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[28-Nov-2016 20:38:18 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-includes/post.php on line 3579
+[28-Nov-2016 20:43:53 UTC] PHP Notice:  Undefined variable: catdata in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:43:53 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:44:51 UTC] PHP Notice:  Undefined variable: catdata in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:44:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:45:23 UTC] PHP Notice:  Undefined variable: catdata in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:45:23 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:46:07 UTC] PHP Notice:  Undefined variable: catdata in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:46:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:46:15 UTC] PHP Notice:  Undefined variable: catdata in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
+[28-Nov-2016 20:46:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
