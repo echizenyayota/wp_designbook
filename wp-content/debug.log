@@ -382,3 +382,6 @@
 [28-Nov-2016 20:46:15 UTC] PHP Notice:  Undefined variable: catdata in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
 [28-Nov-2016 20:46:15 UTC] PHP Notice:  Trying to get property of non-object in /var/www/wordpress/wp-content/themes/mytheme/date.php on line 18
 [04-Dec-2016 09:48:29 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 306
+[04-Dec-2016 09:53:32 UTC] PHP Notice:  Undefined index: pickupnav in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 6
+[04-Dec-2016 09:55:43 UTC] PHP Notice:  Undefined index: pickupnav in /var/www/wordpress/wp-content/themes/mytheme/sidebar.php on line 6
+[04-Dec-2016 09:56:47 UTC] PHP Warning:  不明なエラーが発生しました。WordPress.org またはこのサーバーの設定に何か問題が起きている可能性があります。問題が解決しない場合は<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>に投稿してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 320
